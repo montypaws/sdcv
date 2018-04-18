@@ -1,4 +1,4 @@
-[<https://travis-ci.org/ashang/sdcv.svg?branch=master>](https://travis-ci.org/ashang/sdcv)
+[![](https://travis-ci.org/ashang/sdcv.svg?branch=master)](https://travis-ci.org/ashang/sdcv)
 
 [![](https://img.shields.io/badge/license-GPL%202-brightgreen.svg)](https://github.com/ashang/sdcv/blob/master/LICENSE)
 
