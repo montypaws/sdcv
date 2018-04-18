@@ -11,7 +11,7 @@ cmake path/to/source/code/of/sdcv
 make
 ```
 
-If you enabled nls then you should also need
+If enabled nls
 
 ``` bash
 make lang
